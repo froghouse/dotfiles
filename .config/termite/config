@@ -36,10 +36,6 @@
     #word_chars = -A-Za-z0-9,./?%&#:_=+@~
 
 [colors]
-    #foreground = #FFFFFF
-    #foreground_bold = #ffffff
-    #foreground_dim = #888888
-    #background = #000000
     cursor = #d3d3a9 
     background = #27261f
     foreground = #d3d3a9
