@@ -9,3 +9,5 @@ ln -s .i3status.conf ~/.i3status.conf
 mkdir -p ~/.config/mpd/playlists
 touch ~/.config/mpd/log
 
+echo "Done!"
+
