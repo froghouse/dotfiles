@@ -6,6 +6,6 @@ ln -s .i3 ~/.i3
 ln -s .i3blocks.conf ~/.i3blocks.conf
 ln -s .i3status.conf ~/.i3status.conf
 
-mkdir -p ~/.config/mpd/database
+mkdir -p ~/.config/mpd/playlists
 touch ~/.config/mpd/log
 
